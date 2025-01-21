@@ -10,7 +10,10 @@ Other tools I use [linear, slack, monday]
 
 ##### Open for ideas: ping me if you want to collaborate on a project
 
+## Todoist Stats
 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 <!--
 **hernandezharries08/hernandezharries08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
