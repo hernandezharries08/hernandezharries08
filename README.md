@@ -33,7 +33,7 @@ Other tools I use [linear, slack, monday]
 ## Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  2,661 Karma Points           
+🏆  2,677 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 83 tasks so far           
 ⏳  Longest streak is 4 days
