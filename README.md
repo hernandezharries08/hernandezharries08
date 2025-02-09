@@ -44,6 +44,7 @@ Other tools I use [linear, slack, monday]
 <p>React Native by Meta - <a target="_blank" href="https://coursera.org/share/a32b83ba8981d90cbcf61863e465b139">certificate link</a></p>
 <p>React Basics by Meta - <a target="_blank" href="https://coursera.org/share/c5074f5022de324831c2a581611c065d">certificate link</a></p>
 <p>Mobile Development by Meta - <a target="_blank" href="https://coursera.org/share/7a0c0d893723f0a72668845f5eedda18">certificate link</a></p>
+<p>Working with Data by Meta - <a target="_blank" href="https://coursera.org/share/e252f527b279486b130c9183e155af50">certificate link</a></p>
 
 <!--
 **hernandezharries08/hernandezharries08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
