@@ -34,8 +34,8 @@ Other tools I use [linear, slack, monday]
 
 <!-- TODO-IST:START -->
 🏆  10,000 Karma Points           
-🌸  Completed 5 tasks today           
-✅  Completed 807 tasks so far           
+🌸  Completed 1 tasks today           
+✅  Completed 808 tasks so far           
 ⏳  Longest streak is 7 days
 <!-- TODO-IST:END -->
 
